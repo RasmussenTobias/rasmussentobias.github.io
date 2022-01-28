@@ -285,6 +285,7 @@
 
 
 			};
+		
 
 		// Articles.
 			$main_articles.each(function() {
